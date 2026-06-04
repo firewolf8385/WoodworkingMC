@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Easily create wooden blocks using the stonecutter.",
+		"min_format": [88,0],
+		"max_format": [101,1]
+    }
+}
